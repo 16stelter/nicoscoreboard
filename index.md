@@ -1,4 +1,4 @@
-#### Scoreboard
+# Scoreboard
 |Name | Score|
 |-----|------|
 |     |      |
