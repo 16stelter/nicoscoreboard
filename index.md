@@ -3,6 +3,7 @@
 |Name                   | Score |
 |:----------------------|:------|
 |Joyful Jellyfish       |288    |
+|Ravishing Rabbit       |286    |
 |Thoughtprovoking Turtle|284    |
 |Honest Hamster         |282    |
 |Creative Camel         |273    |
