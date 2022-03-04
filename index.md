@@ -2,9 +2,9 @@
 
 |Name                   | Score |
 |:----------------------|:------|
-|Favorable Forg         |288    |
-|Joyful Jellyfish       |288    |
-|Ravishing Rabbit       |286    |
+|**Favorable Forg**     |**288**|
+|**Joyful Jellyfish**   |**288**|
+|**Ravishing Rabbit**   |**286**|
 |Moving Mole            |285    |
 |Thoughtprovoking Turtle|284    |
 |Honest Hamster         |282    |
