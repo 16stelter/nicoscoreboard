@@ -2,15 +2,18 @@
 
 |Name                   | Score |
 |:----------------------|:------|
+|**Wondrous Wolf**      |**300**|
+|**Wondrous Walrus**    |**295**|
 |**Favorable Forg**     |**288**|
 |**Joyful Jellyfish**   |**288**|
-|**Ravishing Rabbit**   |**286**|
+|Ravishing Rabbit       |286    |
 |Moving Mole            |285    |
 |Thoughtprovoking Turtle|284    |
 |Honest Hamster         |282    |
 |Technological Tapir    |279    |
 |Fastpaced Fox          |274    |
 |Creative Camel         |273    |
+|Confident Crocodile    |270    |
 |Sleek Sheep            |268    |
 |Super Squirrel         |267    |
 |Breathtaking Beaver    |263    |
@@ -24,9 +27,14 @@
 |Wondrous Wallaby       |251    |
 |Thoughtprovoking Tiger |246    |
 |Stupenduous Seahorse   |245    |
+|Charming Cobra         |244    |
 |Knowledgeable Koala    |242    |
 |Bright Bear            |238    |
 |Personable Pony        |235    |
+|Mirthful Meerkat       |223    |
+
+
+
 
 
 
